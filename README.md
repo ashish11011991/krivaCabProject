@@ -2,13 +2,12 @@
 
 It's an Online web application, where I am allowing user to sign up, select near by ride and book a cab.
 
-Technology Used
-
+Technologies :
+=================
 VIEW: JSP(designed using Bootstrap, JQuery)
 CONTROLLER : Servlet's
 MODEL : Hibernate Entities (POJO class)
 
-==============
 Modules :
 ==============
 1.User (CRUD)
