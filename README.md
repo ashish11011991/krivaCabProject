@@ -22,7 +22,6 @@ Credits:
 Core-Developers
 ----------------------
 Ashish Tiwari.
-Shubhada Mulaya.
 
 Database (Table,Procedure, & Triggers):
 -----------------------------------------
